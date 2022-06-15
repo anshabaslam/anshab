@@ -1,0 +1,16 @@
+asgiref==3.5.2
+certifi==2022.5.18.1
+charset-normalizer==2.0.12
+Django==2.2.15
+idna==3.3
+numpy==1.22.4
+opencv-python==4.6.0.66
+Pillow==9.1.1
+psycopg2==2.9.3
+psycopg2-binary==2.9.3
+pytz==2022.1
+sqlparse==0.4.2
+style==1.1.0
+tzdata==2022.1
+update==0.0.1
+urllib3==1.26.9
